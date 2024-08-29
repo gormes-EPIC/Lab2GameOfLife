@@ -54,16 +54,20 @@ This application uses the Model-View-Controller(MVC) design framework. You don't
 
 Your `oneGeneration()` method must implement the rules of Conway's Game of Life as described below. **Complete the "helper methods" given to keep your code simple and organized.** The method `oneGeneration()` will be called automatically over and over once the Run button has been clicked to advance from generation to generation. It can also be paused, resumed, or stepped under user's control.
 
+![GameOfLifePicture1 (1)](https://github.com/user-attachments/assets/8fe5784c-5f6c-4652-b79f-e515bed5f936)
+![GameOfLifePicture1 (2)](https://github.com/user-attachments/assets/6f22559f-d5d1-4d8d-97b5-d86ba8bae01e)
+![GameOfLifePicture1 (3)](https://github.com/user-attachments/assets/8761b38f-db46-4312-ad2a-ffc60131dced)
 
 ### Testing
 
 A sample run output for **generation 5** is given below.  Note, these are the correct answers if you use the provided data file `life100.txt`.  If you let life run for a long time, it will oscillate between the last 3 patterns.  There are actually 6 patterns as the line of three keeps switching.
 
-![[GameOfLifePicture1 (1).png]] ![[GameOfLifePicture1 (2).png]] ![[GameOfLifePicture1 (3).png]]
-
 ### Deliverables
 
-- Your Java project with a completed `LifeModel.java` file. 
+- Your Java project with a completed `LifeModel.java` file.
+- If you use outside resources, cite them in your code. Add a comment explaining how you used the resource and a link. Consult the [MIT Code Citation Guidelines](https://integrity.mit.edu/handbook/writing-code) for examples.
+
+  
 ### Sources
 
 This starter code was created by Kimberly Jans. Original solution with graphics based on work by Roger Frank from Ponderosa High School in Parker, CO
